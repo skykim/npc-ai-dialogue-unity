@@ -28,7 +28,7 @@ public class PromptManager : MonoBehaviour
     private void Start()
     {
         //assign specific role
-        _accumulatedQuery = role + "\n";
+        _accumulatedQuery = role + "\n\n";
     }
 
     public async void CompletedUserTyping()
