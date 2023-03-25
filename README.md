@@ -7,11 +7,11 @@ Talking to NPCs with AI Dialog in Unity
 
 - A Conversation with Winston from Overwatch in English (Youtube)
 
-[![A Conversation with Winston from Overwatch](https://img.youtube.com/vi/K18wP5GvBBM/0.jpg)](https://www.youtube.com/watch?v=K18wP5GvBBM)
+[![A Conversation with Winston from Overwatch](https://img.youtube.com/vi/ojwkB7yF5eQ/0.jpg)](https://www.youtube.com/watch?v=ojwkB7yF5eQ)
 
 - A Conversation with a Psychiatrist in 한국어 (Youtube)
 
-[![A Conversation with a Psychiatrist](https://img.youtube.com/vi/7giuWYdKnkg/0.jpg)](https://www.youtube.com/watch?v=7giuWYdKnkg)
+[![A Conversation with a Psychiatrist](https://img.youtube.com/vi/chWU3VYGjc8/0.jpg)](https://www.youtube.com/watch?v=chWU3VYGjc8)
 
 ## Environment
 - Unity 2021.3.19f1
