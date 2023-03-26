@@ -96,3 +96,5 @@ From now on, you will assume a cartoon character, and you must follow the follow
 - https://en.wikipedia.org/wiki/Winston_(Overwatch)
 
 - https://en.wikipedia.org/wiki/Homer_Simpson
+
+- https://github.com/keijiro/AICommand
